@@ -8,11 +8,11 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 # --- CONFIG ---
-LETTERBOXD_USERNAME = "griffi31"
-RADARR_URL = "http://192.168.6.225:7878"  # Correct IP address for Radarr
-RADARR_API_KEY = "3465bf63846142239eda93b573b55d3c"
-QUALITY_PROFILE_ID = 7
-ROOT_FOLDER_PATH = "/movies"
+LETTERBOXD_USERNAME = "XXXX" #Letterboxd username 
+RADARR_URL = "http://192.168.XXX.XXX:7878"  # Correct IP address for Radarr
+RADARR_API_KEY = "XXXXXXXXXX" #Your Radarr API Key Here
+QUALITY_PROFILE_ID = X #Desired Quality Profile in Radarr 
+ROOT_FOLDER_PATH = "/XXXX" #Desired directory location for media
 
 # --- FUNCTIONS ---
 
